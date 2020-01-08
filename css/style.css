@@ -1,0 +1,17 @@
+h2.intro {
+    color: blueviolet;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: antiquewhite;
+    
+}
+
+p.intro {
+    color: brown;
+    font-weight: 900;
+}
+
+img.intro {
+    width: 400px;
+    height: auto;
+   
+}
